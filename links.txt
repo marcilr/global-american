@@ -8,6 +8,11 @@ Global American Fanless PC related links
 
 Links
 =====
+Blustar FS-3300 - Small Form Factor Fanless Box PC
+Intel Celeron N2807 or Intel Celeron J1900 processor (SOC)
+Onlu up to 8GB ram.
+https://www.globalamericaninc.com/catalog/product/view/id/957
+
 Global American
 http://www.globalamericaninc.com/
 
@@ -15,4 +20,3 @@ Global American
 Fanless PC
 Compact, Reliable Computing Power
 http://www.globalamericaninc.com/fanlesspc/fanless-pc.html?gclid=CPD9hbOg67UCFVSVMgodiloAUw
-
